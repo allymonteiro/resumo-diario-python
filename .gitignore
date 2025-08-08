@@ -1,0 +1,14 @@
+# Arquivos e pastas do PyInstaller
+/dist/
+/build/
+*.spec
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Ignorar executáveis
+*.exe
+
+# Ignorar arquivo de configuração com senhas
+config.py
