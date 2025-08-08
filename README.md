@@ -36,14 +36,14 @@ Uma ferramenta de linha de comando que busca informações de múltiplas fontes 
     ```
 5.  Execute o script:
     ```bash
-    python bom_dia.py
+    python noticiasclima.py
     ```
 
 ---
 
 ## 🚀 Como Usar (Versão Executável para Windows)
 
-1.  Vá para a **[Página de Releases](LINK_DA_SUA_RELEASE_AQUI)**.
-2.  Baixe o arquivo `resumo_diario.exe`.
+1.  Vá para a **[Página de Releases](https://github.com/allymonteiro/resumo-diario-python/releases)**.
+2.  Baixe o arquivo `noticiasclima.exe`.
 3.  **Importante:** Crie o arquivo `config.py` (como ensinado na seção acima) e coloque-o **na mesma pasta** que o `resumo_diario.exe`.
 4.  Dê dois cliques no `.exe` e siga as instruções!
